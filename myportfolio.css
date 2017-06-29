@@ -1,5 +1,5 @@
     body {
-    background-color:cornflowerblue;
+    background-color:grey;
     font-family: 'Open Sans', sans-serif;
 font-family: 'Spectral', serif;
 
@@ -25,7 +25,7 @@ p  {
     
     font-size: 100%;
      text-align: justify;
-     text-indent: 30px
+     
     
 }
 img {
@@ -62,4 +62,12 @@ img {
     border-style: solid;
     border-color:black;
     border-radius: 5%;
+}
+
+   
+
+    
+.form{
+   background-color: whitesmoke
+   
 }
