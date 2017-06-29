@@ -1,5 +1,5 @@
     body {
-    background-color:grey;
+    background-color:white;
     font-family: 'Open Sans', sans-serif;
 font-family: 'Spectral', serif;
 
@@ -14,14 +14,14 @@ h1 {
 
 }
 h2 {
-    color:black;
+    color:grey;
     
     font-size: 300%;
     text-align: center;
     
 }
 p  {
-    color:white;
+    color:black;
     
     font-size: 100%;
      text-align: justify;
@@ -62,12 +62,15 @@ img {
     border-style: solid;
     border-color:black;
     border-radius: 5%;
+    width: 200px;
+    height:200px;
 }
-
-   
-
     
 .form{
    background-color: whitesmoke
    
+}
+.form{
+    background-color: grey
+    
 }
